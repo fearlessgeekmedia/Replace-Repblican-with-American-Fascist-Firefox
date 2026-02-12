@@ -2,6 +2,14 @@
 
 A Firefox extension that automatically replaces terms like "Republican", "GOP", and "ICE" with "American Fascist" and "Gestapo" on all websites you visit.
 
+**Chrome user?** Get the [Chrome version here](https://github.com/fearlessgeekmedia/Republican-to-American-Fascist).
+
+## Key Features
+
+- Replaces "Republican", "Republicans", and "GOP" with **"American Fascist"** or **"American Fascists"**.
+- Replaces "ICE" and "Immigration and Customs Enforcement" with **"Gestapo"**.
+- Works on dynamic content (infinite scroll, social media feeds, etc.).
+
 ## Installation Instructions
 
 Since this extension is not currently on the Firefox Add-ons Store, you must install it manually as a temporary add-on:
